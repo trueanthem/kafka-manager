@@ -1,0 +1,10 @@
+# git repo and files
+**/.git*
+.gitignore
+
+# markdown files
+**/*.md
+
+# cloudbuild
+cloudbuild.yaml
+.gcloudignore

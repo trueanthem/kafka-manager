@@ -1,0 +1,14 @@
+# Docker build files
+Dockerfile
+.dockerignore
+
+# git repo and files
+**/.git*
+.gitignore
+
+# markdown files
+**/*.md
+
+# Project assets
+.gcloudignore
+cloudbuild.yaml
